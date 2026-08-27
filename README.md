@@ -834,4 +834,5 @@ These tasks are science-informed adaptations of established cognitive assessment
 
 ## License
 
-MIT
+Republic Polytechnic Health Promotion Innovation Laboratory
+
